@@ -22,18 +22,4 @@ items:
   children: []
   path: "/organizations"
   file: content/fr/organizations/_index.html
-- title: Les modes de gardes
-  target: "/les-modes-de-gardes/"
-  kind: page
-  new_tab: false
-  children: []
-  path: 
-  file: 
-- title: Demander une place en crèche
-  target: "/demander-une-place-en-creche/"
-  kind: page
-  new_tab: false
-  children: []
-  path: 
-  file: 
 
